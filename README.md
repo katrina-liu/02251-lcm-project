@@ -27,4 +27,10 @@ This repo is for dataset files sharing.
     └───img
          │   (date).png
          │   ...
+|
+└───ncbi-datasets
+    └───pdb
+    │    │   6VYB.pdb
+    |    |   ...
+    |    virus_dataset.md
 ```
