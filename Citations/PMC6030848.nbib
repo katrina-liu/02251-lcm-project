@@ -1,0 +1,130 @@
+PMID- 29788355
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190808
+LR  - 20190808
+IS  - 1362-4962 (Electronic)
+IS  - 0305-1048 (Print)
+IS  - 0305-1048 (Linking)
+VI  - 46
+IP  - W1
+DP  - 2018 Jul 2
+TI  - SWISS-MODEL: homology modelling of protein structures and complexes.
+PG  - W296-W303
+LID - 10.1093/nar/gky427 [doi]
+AB  - Homology modelling has matured into an important technique in structural biology, 
+      significantly contributing to narrowing the gap between known protein sequences and 
+      experimentally determined structures. Fully automated workflows and servers simplify 
+      and streamline the homology modelling process, also allowing users without a 
+      specific computational expertise to generate reliable protein models and have easy 
+      access to modelling results, their visualization and interpretation. Here, we 
+      present an update to the SWISS-MODEL server, which pioneered the field of automated 
+      modelling 25 years ago and been continuously further developed. Recently, its 
+      functionality has been extended to the modelling of homo- and heteromeric complexes. 
+      Starting from the amino acid sequences of the interacting proteins, both the 
+      stoichiometry and the overall structure of the complex are inferred by homology 
+      modelling. Other major improvements include the implementation of a new modelling 
+      engine, ProMod3 and the introduction a new local model quality estimation method, 
+      QMEANDisCo. SWISS-MODEL is freely available at https://swissmodel.expasy.org.
+FAU - Waterhouse, Andrew
+AU  - Waterhouse A
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - Bertoni, Martino
+AU  - Bertoni M
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - Bienert, Stefan
+AU  - Bienert S
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - Studer, Gabriel
+AU  - Studer G
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - Tauriello, Gerardo
+AU  - Tauriello G
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - Gumienny, Rafal
+AU  - Gumienny R
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - Heer, Florian T
+AU  - Heer FT
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - de Beer, Tjaart A P
+AU  - de Beer TAP
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - Rempfer, Christine
+AU  - Rempfer C
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - Bordoli, Lorenza
+AU  - Bordoli L
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - Lepore, Rosalba
+AU  - Lepore R
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+FAU - Schwede, Torsten
+AU  - Schwede T
+AD  - Biozentrum, University of Basel, Klingelbergstrasse 50-70, CH-4056 Basel, 
+      Switzerland.
+AD  - SIB Swiss Institute of Bioinformatics, Biozentrum, University of Basel, 
+      Klingelbergstrasse 50-70, CH-4056 Basel, Switzerland.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+TA  - Nucleic Acids Res
+JT  - Nucleic acids research
+JID - 0411011
+RN  - 0 (Proteins)
+MH  - Databases, Protein
+MH  - *Internet
+MH  - Models, Chemical
+MH  - Molecular Dynamics Simulation
+MH  - *Protein Conformation
+MH  - Proteins/chemistry/*genetics
+MH  - Sequence Homology, Amino Acid
+MH  - *Software
+MH  - Structural Homology, Protein
+PMC - PMC6030848
+EDAT- 2018/05/23 06:00
+MHDA- 2019/08/09 06:00
+CRDT- 2018/05/23 06:00
+PHST- 2018/02/09 00:00 [received]
+PHST- 2018/05/07 00:00 [accepted]
+PHST- 2018/05/23 06:00 [pubmed]
+PHST- 2019/08/09 06:00 [medline]
+PHST- 2018/05/23 06:00 [entrez]
+AID - 5000024 [pii]
+AID - gky427 [pii]
+AID - 10.1093/nar/gky427 [doi]
+PST - ppublish
+SO  - Nucleic Acids Res. 2018 Jul 2;46(W1):W296-W303. doi: 10.1093/nar/gky427.
